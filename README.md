@@ -1,1 +1,13 @@
-I forked this project from someone else because it seemed like he didn't maintain it. There was one other fork but that seemed to be unmaintained as well. I found that neither had support for many-to-many relationships, while this version does.
+Allows you to add prefixes to your models tables in database
+
+
+
+in your setting.py
+
+
+    INSTALLED_APPS = [
+        ...
+        'table_prefix',
+    ]
+    
+    DB_PREFIX = 'myprefix_'
