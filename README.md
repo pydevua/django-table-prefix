@@ -1,0 +1,1 @@
+I forked this project from someone else because it seemed like he didn't maintain it. There was one other fork but that seemed to be unmaintained as well. I found that neither had support for many-to-many relationships, while this version does.
